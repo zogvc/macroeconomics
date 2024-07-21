@@ -4,7 +4,7 @@ Notes and codes on macroeconomics.
 
 ## Contents
 
-This repository can be mainly divided into three parts: `notes`, `codes`, and `appendix`.
+This repository is mainly divided into three parts: `notes`, `codes`, and `appendix`.
 
 - `notes` include various topics in macroeconomic theory and tools.
 - `codes` include programming codes that implement computational methods to solve macroeconomic problems.
