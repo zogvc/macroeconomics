@@ -14,6 +14,13 @@ Below is the list of topics covered (or to be upated) in each section.
 
 ### Notes
 
+- The Solow Model
+- The Neoclassical Growth Model
+- Deterministic Dynamic Programming in Discrete-Time
+- Stochastic Dynamic Programming in Discrete-Time
+- Deterministic Dynamic Programming in Continous-Time
+- Stochastic Dynamic Programming in Continuous-Time
+
 ### Codes
 
 ### Appendix
