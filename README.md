@@ -23,9 +23,17 @@ Below is the list of topics covered (or to be upated) in each section.
 
 ### Codes
 
+- The Consumption-Savings Problem
+
 ### Appendix
 
 - Differential and Difference Equations
+- Metric Space
+
+
+## Prerequisites
+
+Familiarity in Julia and Matlab programming is required. If not, you can refer to the Julia and Matlab tutorial files located in the `julia` and `matlab` folder.
 
 
 ## References
